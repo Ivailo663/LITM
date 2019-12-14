@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/LITM/static/css/main.5fa9870e.chunk.css",
+    "main.js": "/LITM/static/js/main.1e21b7af.chunk.js",
+    "main.js.map": "/LITM/static/js/main.1e21b7af.chunk.js.map",
+    "runtime-main.js": "/LITM/static/js/runtime-main.da393333.js",
+    "runtime-main.js.map": "/LITM/static/js/runtime-main.da393333.js.map",
+    "static/css/2.16e52314.chunk.css": "/LITM/static/css/2.16e52314.chunk.css",
+    "static/js/2.4ba5f894.chunk.js": "/LITM/static/js/2.4ba5f894.chunk.js",
+    "static/js/2.4ba5f894.chunk.js.map": "/LITM/static/js/2.4ba5f894.chunk.js.map",
+    "index.html": "/LITM/index.html",
+    "precache-manifest.a6a6dd968ccffc6383230c044f0ddb0d.js": "/LITM/precache-manifest.a6a6dd968ccffc6383230c044f0ddb0d.js",
+    "service-worker.js": "/LITM/service-worker.js",
+    "static/css/2.16e52314.chunk.css.map": "/LITM/static/css/2.16e52314.chunk.css.map",
+    "static/css/main.5fa9870e.chunk.css.map": "/LITM/static/css/main.5fa9870e.chunk.css.map",
+    "static/js/2.4ba5f894.chunk.js.LICENSE": "/LITM/static/js/2.4ba5f894.chunk.js.LICENSE",
+    "static/media/LITM-white.png": "/LITM/static/media/LITM-white.25dfca16.png",
+    "static/media/SectionAbout.module.scss": "/LITM/static/media/blackToWhite.7025e855.png",
+    "static/media/custom.scss": "/LITM/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/App.scss": "/LITM/static/media/foggy-final.2b181276.png",
+    "static/media/logo.svg": "/LITM/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da393333.js",
+    "static/css/2.16e52314.chunk.css",
+    "static/js/2.4ba5f894.chunk.js",
+    "static/css/main.5fa9870e.chunk.css",
+    "static/js/main.1e21b7af.chunk.js"
+  ]
+}
