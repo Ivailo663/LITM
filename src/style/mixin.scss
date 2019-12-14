@@ -1,0 +1,10 @@
+@import "variables";
+
+@mixin button{
+    width:14em;
+    border:0.2em solid#fff!important;
+    color:#fff !important;
+    border-radius:0 !important;
+    font-size:1.2em !important;
+    font-weight:bold !important;
+}

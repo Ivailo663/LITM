@@ -1,0 +1,34 @@
+@import "mixin";
+.litmContainer {
+    // background-color: rgba(0,0,0,0.4);
+    margin:2em 0 14em 0;
+  h2 {
+    color: #fff;
+    margin: 0.5em 0em 0.5em 0em;
+    font-family: "Kameron", sans-serif;
+    font-size:4em;
+    letter-spacing: 12px;
+  }
+}
+
+.landingBtnContainer {
+  text-align: center;
+  // padding-bottom:em;
+}
+.newEP {
+  @include button;
+  margin: 1em;
+  font-weight:bold;
+//   font-size:5em
+}
+.Subscribe {
+  @include button;
+  margin: 1em;
+}
+.socialMediaContainer{
+    margin:4em 0em 4em 0;
+    i{
+        color:#fff;
+        font-size:2em;
+    }
+}

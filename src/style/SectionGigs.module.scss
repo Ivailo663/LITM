@@ -1,0 +1,29 @@
+@import "mixin";
+
+*{
+    color: #000;
+}
+.gigsContainer{
+    background-color:#000;
+    text-align:center;
+    h1{
+        color:#fff;
+        font-weight: bold;
+        padding-top:4em;
+        margin-bottom:3em;
+    }
+    h2{
+        color:#fff;
+        margin:1em;
+        font-family: 'Kameron';
+    }
+    p{
+        color:#fff;
+        margin-bottom:2em;
+        font-family: 'Kameron'
+    }
+    .Subscribe{
+        @include button;
+        margin-bottom:8em;
+    }
+}

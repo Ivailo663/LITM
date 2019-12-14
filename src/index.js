@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './custom.scss';
+import "bootstrap/js/src/collapse.js"
+import 'bootstrap/js/dist/dropdown';
+import 'bootstrap/js/dist/util';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

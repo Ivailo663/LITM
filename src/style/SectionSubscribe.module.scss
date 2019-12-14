@@ -1,0 +1,43 @@
+.subscribeContainer {
+  background-color: #000;
+  text-align:center;
+}
+.subscribe{
+    color:#fff;
+    font-weight: bold;
+    padding:1em 0 3em 0 ;
+    font-size:2.5em ;
+}
+aside {
+  h2 {
+    color: #fff;
+    margin-bottom: 1.5em;
+  }
+  h4 {
+    color: #fff;
+    font-family: "Kameron";
+  }
+}
+form {
+  width: 20em;
+  text-align:left;
+  p {
+    color: #fff;
+  }
+  input{
+      margin:0.5em 0 0.5em 0;
+      height:4em;
+      width:33em;
+  }
+  button{
+      margin-top:0.5em;
+      width:27.5em;
+      height:3em;
+      background-color:#26d42f;
+      border:2px solid #26d42f;
+      color:#26d42f;
+      font-size:1.2em;
+      color:#fff;
+      font-weight:bold;
+  } 
+}
