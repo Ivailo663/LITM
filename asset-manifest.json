@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LITM/static/css/main.9aa08a40.chunk.css",
+    "main.css": "/LITM/static/css/main.ca253ecf.chunk.css",
     "main.js": "/LITM/static/js/main.1e21b7af.chunk.js",
     "main.js.map": "/LITM/static/js/main.1e21b7af.chunk.js.map",
     "runtime-main.js": "/LITM/static/js/runtime-main.da393333.js",
@@ -9,10 +9,10 @@
     "static/js/2.4ba5f894.chunk.js": "/LITM/static/js/2.4ba5f894.chunk.js",
     "static/js/2.4ba5f894.chunk.js.map": "/LITM/static/js/2.4ba5f894.chunk.js.map",
     "index.html": "/LITM/index.html",
-    "precache-manifest.5a712ac9087c6b748a1654c6ebff8cd0.js": "/LITM/precache-manifest.5a712ac9087c6b748a1654c6ebff8cd0.js",
+    "precache-manifest.e90491b362a60555252ef5a630c01eb2.js": "/LITM/precache-manifest.e90491b362a60555252ef5a630c01eb2.js",
     "service-worker.js": "/LITM/service-worker.js",
     "static/css/2.16e52314.chunk.css.map": "/LITM/static/css/2.16e52314.chunk.css.map",
-    "static/css/main.9aa08a40.chunk.css.map": "/LITM/static/css/main.9aa08a40.chunk.css.map",
+    "static/css/main.ca253ecf.chunk.css.map": "/LITM/static/css/main.ca253ecf.chunk.css.map",
     "static/js/2.4ba5f894.chunk.js.LICENSE": "/LITM/static/js/2.4ba5f894.chunk.js.LICENSE",
     "static/media/LITM-white.png": "/LITM/static/media/LITM-white.25dfca16.png",
     "static/media/SectionAbout.module.scss": "/LITM/static/media/blackToWhite.7025e855.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.da393333.js",
     "static/css/2.16e52314.chunk.css",
     "static/js/2.4ba5f894.chunk.js",
-    "static/css/main.9aa08a40.chunk.css",
+    "static/css/main.ca253ecf.chunk.css",
     "static/js/main.1e21b7af.chunk.js"
   ]
 }

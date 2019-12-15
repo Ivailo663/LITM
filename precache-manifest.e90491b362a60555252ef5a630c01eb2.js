@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ff581b6e36bf4955ca1f6280e8b864b",
+    "revision": "e492ab5984cd90c8bc1989fa6538028e",
     "url": "/LITM/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LITM/static/css/2.16e52314.chunk.css"
   },
   {
-    "revision": "69bc5440d1b6b230d013",
-    "url": "/LITM/static/css/main.9aa08a40.chunk.css"
+    "revision": "ca7bebdec0401d6192d1",
+    "url": "/LITM/static/css/main.ca253ecf.chunk.css"
   },
   {
     "revision": "39a9ee8deb2f5b5ba177",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LITM/static/js/2.4ba5f894.chunk.js.LICENSE"
   },
   {
-    "revision": "69bc5440d1b6b230d013",
+    "revision": "ca7bebdec0401d6192d1",
     "url": "/LITM/static/js/main.1e21b7af.chunk.js"
   },
   {
